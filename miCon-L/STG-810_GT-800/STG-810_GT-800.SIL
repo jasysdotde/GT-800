@@ -1,0 +1,30 @@
+99     miCon-L_Copyright_ProSign_2012
+98     Version_1.000
+97     Project: C:\PRG\ESP\MSYS32\HOME\JA-JS\ESP32\FIRMWARE_GT-800\MICON-L\STG-810_GT-800\STG-810_GT-800.MDL
+ 2 Liste der E
+ 3 Liste der A
+10 Liste der B
+ 0 B             8 N : Send
+                   D : 0
+                   C : %%
+29 Liste der UCHARPARA
+ 9 Liste der PW
+ 0 PW            1 N : %%
+                   D : 50
+                   C : %%
+11 Liste der PL
+31 Liste der INT64PARA
+ 8 Liste der PF
+ 0 PF            1 N : %%
+                   D : undef
+                   C : %%
+ 0 PF            2 N : %%
+                   D : undef
+                   C : %%
+33 Liste der DOUBLEPARA
+12 Liste der PT
+21 Liste der TIMEPARA
+23 Liste der DATEPARA
+25 Liste der TODPARA
+27 Liste der DTPARA
+35 Liste der OLEDTPARA
